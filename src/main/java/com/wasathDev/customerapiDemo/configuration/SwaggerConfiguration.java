@@ -1,4 +1,4 @@
-package configuration;
+package com.wasathDev.customerapiDemo.configuration;
 
 import java.util.Collections;
 
